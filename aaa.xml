@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dad.png"><SubTexture name=" idle dance0000" x="0" y="0" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" idle dance0001" x="485" y="0" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" idle dance0002" x="970" y="0" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" idle dance0003" x="1455" y="0" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" idle dance0004" x="0" y="895" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" idle dance0005" x="485" y="895" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" idle dance0006" x="970" y="895" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" idle dance0007" x="1455" y="895" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" Sing Note LEFT0000" x="0" y="1790" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" Sing Note LEFT0001" x="485" y="1790" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" SingNote LEFT MISS0000" x="970" y="1790" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" SingNote LEFT MISS0001" x="1455" y="1790" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" Sing Note RIGHT0000" x="0" y="2685" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" Sing Note RIGHT0001" x="485" y="2685" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" SingNote RIGHT MISS0000" x="970" y="2685" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" SingNote RIGHT MISS0001" x="1455" y="2685" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" Sing Note UP0000" x="0" y="3580" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" Sing Note UP0001" x="485" y="3580" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" SingNote UP MISS0000" x="970" y="3580" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" SingNote UP MISS0001" x="1455" y="3580" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" Sing Note DOWN0000" x="0" y="4475" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" Sing Note DOWN0001" x="485" y="4475" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" SingNote DOWN MISS0000" x="970" y="4475" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+<SubTexture name=" SingNote DOWN MISS0001" x="1455" y="4475" width="485" height="895" frameX="0" frameY="0" frameWidth="485" frameHeight="895" />
+</TextureAtlas>

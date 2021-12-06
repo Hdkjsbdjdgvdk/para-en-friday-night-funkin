@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peach.png"><SubTexture name="peach idle dance0000" x="0" y="0" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach idle dance0001" x="482" y="0" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach idle dance0002" x="964" y="0" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach idle dance0003" x="1446" y="0" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach idle dance0004" x="0" y="880" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach idle dance0005" x="482" y="880" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach idle dance0006" x="964" y="880" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach idle dance0007" x="1446" y="880" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach Sing Note UP0000" x="0" y="1760" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach Sing Note UP0001" x="482" y="1760" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach Sing Note LEFT0000" x="964" y="1760" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach Sing Note LEFT0001" x="1446" y="1760" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach Sing Note DOWN0000" x="0" y="2640" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach Sing Note DOWN0001" x="482" y="2640" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach Sing Note RIGHT0000" x="964" y="2640" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+<SubTexture name="peach Sing Note RIGHT0001" x="1446" y="2640" width="482" height="880" frameX="0" frameY="0" frameWidth="482" frameHeight="880" />
+</TextureAtlas>

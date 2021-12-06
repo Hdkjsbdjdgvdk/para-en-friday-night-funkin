@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="doc hudson.png"><SubTexture name="doc hudson idle0000" x="0" y="0" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson idle0001" x="742" y="0" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson idle0002" x="1484" y="0" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson idle0003" x="2226" y="0" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson idle0004" x="0" y="442" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson idle0005" x="742" y="442" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson LEFT0000" x="1484" y="442" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson LEFT0001" x="2226" y="442" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson up0000" x="0" y="884" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson up0001" x="742" y="884" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson up0002" x="1484" y="884" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson DOWN0000" x="2226" y="884" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson DOWN0001" x="0" y="1326" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson DOWN0002" x="742" y="1326" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson RIGHT0000" x="1484" y="1326" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+<SubTexture name="doc hudson RIGHT0001" x="2226" y="1326" width="742" height="442" frameX="0" frameY="0" frameWidth="742" frameHeight="442" />
+</TextureAtlas>

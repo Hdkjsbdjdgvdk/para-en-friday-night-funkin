@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="king dedede.png"><SubTexture name="king dedede idle0000" x="0" y="0" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0001" x="621" y="0" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0002" x="1242" y="0" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0003" x="1863" y="0" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0004" x="0" y="951" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0005" x="621" y="951" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0006" x="1242" y="951" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0007" x="1863" y="951" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0008" x="0" y="1902" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0009" x="621" y="1902" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0010" x="1242" y="1902" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede idle0011" x="1863" y="1902" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede left0000" x="0" y="2853" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede left0001" x="621" y="2853" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede right0000" x="1242" y="2853" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede right0001" x="1863" y="2853" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede up0000" x="0" y="3804" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede up0001" x="621" y="3804" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede down0000" x="1242" y="3804" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede down0001" x="1863" y="3804" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+<SubTexture name="king dedede down0002" x="0" y="4755" width="621" height="951" frameX="0" frameY="0" frameWidth="621" frameHeight="951" />
+</TextureAtlas>
